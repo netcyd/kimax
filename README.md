@@ -1,0 +1,2 @@
+# kimax
+Openwrt test experiment
